@@ -39,4 +39,4 @@ hello()
 ---
 [go to header1](#Header1)
 ---
-[go to hello.md](./a.md)
+[go to hello.md](./hello.md) 
